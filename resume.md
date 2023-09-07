@@ -2,9 +2,7 @@
 # William G. Joca
 ___
 Expedition specialist, guide, and geospatial scientist studying the effects of climate change on America's glaciers. 
-___
 ## Education
-___
 #### Degrees
 - **Bachelors of Fine Arts**
 *Savannah College of Art and Design*, 2011
@@ -23,7 +21,6 @@ ___
 *Jackson Hole Outdoor Leadership School*, 2021
 - **Interpretive Guide**
 *National Association for Interpretive Guides*, 2021
-___
 ## Experience
 - **Research Assistant**
 *Appalachian State University*, 2023
@@ -51,9 +48,7 @@ ___
 *Society of Illustrators*, 2012
 - **Illustrator**
 *the New Yorker Magazine,* 2011
-___
 ## Skills
-___
 - **GIS**
 Experience with Trimble Geo7x GNSS reciever, Emlid Reach RTK recievers, ESRI Products, Broadview Radar Altimetry Toolbox, Structure from Motion, LiDAR, Multispectral analysis, remote sensing image analysis.
 - **Photography**
