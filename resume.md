@@ -10,6 +10,7 @@ Expedition specialist, guide, and geospatial scientist studying the effects of c
 *Central Wyoming College*, 2022
 - **Bachelors of Science**
 *Appalachian State University*, Present
+
 #### Certificates
 - **Geospatial Information Science and Technology**
 *Central Wyoming College*, 2020-2022
