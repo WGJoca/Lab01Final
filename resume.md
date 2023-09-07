@@ -1,4 +1,4 @@
-<img src="Images/IMG_5824.jpeg"/>
+<img src="IMG_5824.jpeg"/>
 # William G. Joca
 ___
 Expedition specialist, guide, and geospatial scientist studying the effects of climate change on America's glaciers. 
