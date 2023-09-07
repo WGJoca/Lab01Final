@@ -55,7 +55,7 @@ Expedition specialist, guide, and geospatial scientist studying the effects of c
 - **GIS**
 Experience with Trimble Geo7x GNSS reciever, Emlid Reach RTK recievers, ESRI Products, Broadview Radar Altimetry Toolbox, Structure from Motion, LiDAR, Multispectral analysis, remote sensing image analysis.
 - **Photography**
-Experience with mirrorless photography, DSLR photography, mobile phone photography. With knowlede of georeferenced imagery, glacier rephotography, georeferenced photogrametry
+Experience with mirrorless photography, DSLR photography, mobile phone photography. With knowledge of georeferenced imagery, glacier rephotography, georeferenced photogrametry
 - **Outdoor**
 Including but not limited to experience with map and compass navigation, camp managment, outdoor group management, packing logistics, backpack  weight distribution, 4 season camping, preventative first aid.
 - **Climbing**
