@@ -22,6 +22,7 @@ Expedition specialist, guide, and geospatial scientist studying the effects of c
 *Jackson Hole Outdoor Leadership School*, 2021
 - **Interpretive Guide**
 *National Association for Interpretive Guides*, 2021
+
 ## Experience
 - **Research Assistant**
 *Appalachian State University*, 2023
@@ -49,6 +50,7 @@ Expedition specialist, guide, and geospatial scientist studying the effects of c
 *Society of Illustrators*, 2012
 - **Illustrator**
 *the New Yorker Magazine,* 2011
+
 ## Skills
 - **GIS**
 Experience with Trimble Geo7x GNSS reciever, Emlid Reach RTK recievers, ESRI Products, Broadview Radar Altimetry Toolbox, Structure from Motion, LiDAR, Multispectral analysis, remote sensing image analysis.
