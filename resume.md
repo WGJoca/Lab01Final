@@ -1,4 +1,4 @@
-<img src="Web Mapping/Lab01/Images/IMG_5824.jpeg"/>
+<img src="Images/IMG_5824.jpeg"/>
 # William G. Joca
 ___
 Expedition specialist, guide, and geospatial scientist studying the effects of climate change on America's glaciers. 
@@ -61,9 +61,8 @@ Experience with mirrorless photography, DSLR photography, mobile phone photograp
 - **Outdoor**
 Including but not limited to experience with map and compass navigation, camp managment, outdoor group management, packing logistics, backpack  weight distribution, 4 season camping, preventative first aid.
 - **Climbing**
-essential climbing knots, rope management, rope ascention, belay, rappel, rescue and hauling systems, 5.9+,
+essential climbing knots, rope management, rope ascention, belay, rappel, rescue and hauling systems, 5.9+, W4+.
 - **Glacier**
 Experienced in Glacier travel, 3 to 4 person rope team, crevasse rescue. Well versed in essential mountaineering skills.
 - **Coding**
 Markdown, HTML, Python, R, RStudio, Visual Studio Code.
-___
